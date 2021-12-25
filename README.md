@@ -1,6 +1,6 @@
 # MyPythonSmallProjects
 
-##### All Small Projects are Composed of a single File #####
+............ All Small Projects are Composed of a single File ............
 
 notes:
 
